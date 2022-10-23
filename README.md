@@ -1,1 +1,1 @@
-# invoiceGeneratorDjangoReact
+# invoiceGeneratorDjangoReact     - only django code
